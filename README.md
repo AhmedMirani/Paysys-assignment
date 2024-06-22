@@ -13,8 +13,8 @@ Continuous Integration The project uses GitHub Actions for Continuous Integratio
 
 ![2](https://github.com/AhmedMirani/Paysys-assignment/assets/126978743/e899fec0-d114-4519-9e2e-b7efe2f3f5d5)
 
-![2](https://github.com/AhmedMirani/Paysys-assignment/assets/126978743/cf8b6032-4faf-47f2-9a1c-030368263784)
+![3](https://github.com/AhmedMirani/Paysys-assignment/assets/126978743/d9eb310e-8ba3-49ed-84ee-51f587fca2b8)
 
-![2](https://github.com/AhmedMirani/Paysys-assignment/assets/126978743/086a520c-5810-4ea4-b2c6-61dd1981f69a)
+![4](https://github.com/AhmedMirani/Paysys-assignment/assets/126978743/dea7de10-a13d-42bb-92cf-64c4d4ec7392)
 
 
