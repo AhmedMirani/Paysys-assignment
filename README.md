@@ -1,9 +1,6 @@
 a.py: This file contains the code base. test_a.py: This file contains unit tests for the functions defined in a.py.
 
-The unit tests are written using Python's unittest. When test_a.py is run, it runs edge cases for the process_numbers function defined in main.py.
-
-
-Unit Test Results
+The unit tests are written using Python's unittest. When test_a.py is run, it runs edge cases for the process_numbers function defined in a.py.
 
 Continuous Integration The project uses GitHub Actions for Continuous Integration (CI). The workflow is defined in .github/workflows/main.yml. This workflow is triggered on every push and pull request to the main branch. It sets up a Python environment, installs any necessary dependencies, and runs the unit tests.
 
